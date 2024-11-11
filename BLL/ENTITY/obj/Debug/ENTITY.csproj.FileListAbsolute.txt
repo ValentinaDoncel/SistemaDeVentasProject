@@ -1,0 +1,6 @@
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\ENTITY\obj\Debug\ENTITY.pdb
