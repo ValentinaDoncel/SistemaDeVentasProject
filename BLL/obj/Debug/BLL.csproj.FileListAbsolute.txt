@@ -1,0 +1,9 @@
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\bin\Debug\BLL.dll
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\bin\Debug\BLL.pdb
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\bin\Debug\ENTITY.dll
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\bin\Debug\ENTITY.pdb
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\obj\Debug\BLL.dll
+C:\Users\Jhon\source\repos\SistemaVentasProyecto\BLL\obj\Debug\BLL.pdb
